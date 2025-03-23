@@ -2,8 +2,9 @@
 Repository containing the Rigid-Flexible Body Dynamic MATLAB model of the spine, referenced in Dukkipati & Driscoll 2025 
 
 
-![Schematic of the RFBD Input-Output model](schematic.png)
-![Video showcasing case-wise model simulations](ROMvideo.mp4)
+[![Schematic of the RFBD Input-Output model. Click for video.](schematic.png)](ROMvideo.mp4)
+
+
 
 ## Model inputs:
 
