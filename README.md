@@ -29,7 +29,7 @@ S.T. Dukkipati and M. Driscoll, "An Integrated Rigid-Flexible Body Dynamic Appro
 ## Running the Model
 1. Open MATLAB and navigate to the `ROMmodel-io` directory.
 2. Open the desired Simulink model (e.g., `ROMmodel_C0_C3.slx`).
-3. Adjust input parameters in the Model Workspace as needed.
+3. Adjust input parameters in the Model Workspace as needed. Please refer to the Manuscript Appendix for detailed info on all model parameters.
 4. Run the simulation.
 5. View outputs in the `Model_Outputs` subsystem.
 
